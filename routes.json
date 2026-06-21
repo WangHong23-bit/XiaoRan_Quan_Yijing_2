@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/"
+  },
+  {
+    "path": "/wardrobe"
+  },
+  {
+    "path": "/recommend"
+  },
+  {
+    "path": "/discover"
+  },
+  {
+    "path": "/profile"
+  }
+]
